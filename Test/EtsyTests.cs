@@ -1,17 +1,7 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Roy de Kleijn
- * Date: 14-2-2013
- * Time: 22:12
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
-using System;
+﻿using System;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
-
-// Requires reference to WebDriver.Support.dll
 using OpenQA.Selenium.Support.UI;
 
 using SeleniumTesting.Pages;
